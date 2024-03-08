@@ -4,7 +4,9 @@
     box-sizing: border-box;
     overflow:hidden;
 }
-
+body{
+    background-color: #000;
+}
 video{
     object-fit: cover;
 }
